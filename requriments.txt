@@ -1,7 +1,0 @@
-PyPDF2
-langchain_community
-langchain_groq
-langchain_google_genai
-streamlit
-python-dotenv
-
