@@ -1,0 +1,6 @@
+langchain_community
+langchain_groq
+langchain_google_genai
+streamlit
+python-dotenv
+pyPDF2
