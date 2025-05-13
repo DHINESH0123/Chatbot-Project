@@ -3,4 +3,4 @@ langchain_groq
 langchain_google_genai
 streamlit
 python-dotenv
-pyPDF2
+PyPDF2
